@@ -8,7 +8,7 @@ public class QueryServeletTest {
 
 	@Test
 	public void testDoGetHttpServletRequestHttpServletResponse() {
-		fail("not implemented");
+		assertTrue(false);
 	}
 
 }
