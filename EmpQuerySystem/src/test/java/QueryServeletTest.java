@@ -8,6 +8,7 @@ public class QueryServeletTest {
 
 	@Test
 	public void testDoGetHttpServletRequestHttpServletResponse() {
+		// test by sushil soni
 		assertTrue(false);
 	}
 
